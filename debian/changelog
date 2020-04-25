@@ -1,8 +1,0 @@
-ros-kinetic-uos-freespace (1.0.0-1xenial) xenial; urgency=high
-
-  * Initial version 1.0.0
-  * Contributors: Jochen Sprickerhof, Marcel Wiegand, Martin Günther, Michael Görner, Peter Purnyn, Sebastian Pütz, Tristan Igelbrink
-
- -- Sebastian Pütz <spuetz@uos.de>  Fri, 24 Apr 2020 22:00:00 -0000
-
-
