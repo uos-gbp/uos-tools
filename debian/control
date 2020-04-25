@@ -1,0 +1,12 @@
+Source: ros-kinetic-uos-freespace
+Section: misc
+Priority: optional
+Maintainer: Sebastian Pütz <spuetz@uos.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-tf
+Homepage: http://ros.org/wiki/uos_freespace
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-uos-freespace
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-tf
+Description: uos_freespace package
