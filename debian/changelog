@@ -1,0 +1,8 @@
+ros-melodic-uos-maps (1.0.0-1bionic) bionic; urgency=high
+
+  * Initial version 1.0.0
+  * Contributors: Jochen Sprickerhof, Michael Görner, Sebastian Pütz, Tristan Igelbrink
+
+ -- Martin Guenther <mguenthe@uni-osnabrueck.de>  Fri, 24 Apr 2020 22:00:00 -0000
+
+
