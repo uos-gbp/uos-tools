@@ -1,8 +1,0 @@
-ros-kinetic-uos-common-urdf (1.0.0-1xenial) xenial; urgency=high
-
-  * Initial version 1.0.0
-  * Contributors: André Potenza, Jochen Sprickerhof, Martin Günther, Sebastian Pütz, Michael Görner, Tristan Igelbrink
-
- -- Jochen Sprickerhof <jochen@sprickerhof.de>  Fri, 24 Apr 2020 22:00:00 -0000
-
-
