@@ -1,0 +1,12 @@
+Source: ros-noetic-uos-common-urdf
+Section: misc
+Priority: optional
+Maintainer: Jochen Sprickerhof <jochen@sprickerhof.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-gazebo-plugins, ros-noetic-urdf, ros-noetic-xacro
+Homepage: http://ros.org/wiki/uos_common_urdf
+Standards-Version: 3.9.2
+
+Package: ros-noetic-uos-common-urdf
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-gazebo-plugins, ros-noetic-urdf, ros-noetic-xacro
+Description: This package contains URDF descriptions of the UOS robots.
