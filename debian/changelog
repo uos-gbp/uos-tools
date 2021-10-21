@@ -1,0 +1,20 @@
+ros-noetic-uos-diffdrive-teleop (1.0.2-1buster) buster; urgency=high
+
+  * rename ps3joy to joy and remove ps3joy run depend
+
+ -- Sebastian Pütz <spuetz@uos.de>  Wed, 20 Oct 2021 22:00:00 -0000
+
+ros-noetic-uos-diffdrive-teleop (1.0.1-1buster) buster; urgency=high
+
+
+
+ -- Sebastian Pütz <spuetz@uos.de>  Wed, 20 Oct 2021 22:00:00 -0000
+
+ros-noetic-uos-diffdrive-teleop (1.0.0-1buster) buster; urgency=high
+
+  * Initial version 1.0.0
+  * Contributors: Jochen Sprickerhof, Martin Günther, Michael Görner, MikyasDesta, Sebastian Pütz, Tristan Igelbrink
+
+ -- Sebastian Pütz <spuetz@uos.de>  Fri, 24 Apr 2020 22:00:00 -0000
+
+
