@@ -1,0 +1,22 @@
+ros-noetic-uos-common-urdf (1.0.2-1focal) focal; urgency=high
+
+
+
+ -- Jochen Sprickerhof <jochen@sprickerhof.de>  Wed, 20 Oct 2021 22:00:00 -0000
+
+ros-noetic-uos-common-urdf (1.0.1-1focal) focal; urgency=high
+
+  * Add missing xacro tag to property
+    find . -iname "*.xacro" | xargs sed -i 's#<([/]?)(if|unless|include|arg|property|macro|insert_block)#<1xacro:2#g'
+  * Add missing xacro tags for inertials with origin (#25 <https://github.com/uos/uos_tools/issues/25>)
+
+ -- Jochen Sprickerhof <jochen@sprickerhof.de>  Wed, 20 Oct 2021 22:00:00 -0000
+
+ros-noetic-uos-common-urdf (1.0.0-1focal) focal; urgency=high
+
+  * Initial version 1.0.0
+  * Contributors: André Potenza, Jochen Sprickerhof, Martin Günther, Sebastian Pütz, Michael Görner, Tristan Igelbrink
+
+ -- Jochen Sprickerhof <jochen@sprickerhof.de>  Fri, 24 Apr 2020 22:00:00 -0000
+
+
