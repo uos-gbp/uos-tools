@@ -1,0 +1,12 @@
+Source: ros-noetic-uos-maps
+Section: misc
+Priority: optional
+Maintainer: Martin Guenther <mguenthe@uni-osnabrueck.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://ros.org/wiki/uos_maps
+Standards-Version: 3.9.2
+
+Package: ros-noetic-uos-maps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Navigation maps of the Osnabrueck University
