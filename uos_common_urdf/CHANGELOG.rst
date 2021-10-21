@@ -2,6 +2,9 @@
 Changelog for package uos_common_urdf
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.2 (2021-10-21)
+------------------
+
 1.0.1 (2021-10-21)
 ------------------
 * Add missing xacro tag to property
