@@ -1,0 +1,12 @@
+Source: ros-noetic-uos-diffdrive-teleop
+Section: misc
+Priority: optional
+Maintainer: Sebastian Pütz <spuetz@uos.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-roscpp, ros-noetic-sensor-msgs
+Homepage: http://ros.org/wiki/uos_diffdrive_teleop
+Standards-Version: 3.9.2
+
+Package: ros-noetic-uos-diffdrive-teleop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-roscpp, ros-noetic-sensor-msgs
+Description: uos_diffdrive_teleop
