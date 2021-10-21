@@ -1,0 +1,12 @@
+Source: ros-noetic-uos-tools
+Section: misc
+Priority: optional
+Maintainer: Sebastian Pütz <spuetz@uos.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://ros.org/wiki/uos_tools
+Standards-Version: 3.9.2
+
+Package: ros-noetic-uos-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-uos-common-urdf, ros-noetic-uos-diffdrive-teleop, ros-noetic-uos-freespace, ros-noetic-uos-gazebo-worlds, ros-noetic-uos-maps
+Description: Various helper utilities not associated with a particular stack
