@@ -1,0 +1,12 @@
+Source: ros-noetic-uos-gazebo-worlds
+Section: misc
+Priority: optional
+Maintainer: Martin Guenther <mguenthe@uni-osnabrueck.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://ros.org/wiki/uos_gazebo_worlds
+Standards-Version: 3.9.2
+
+Package: ros-noetic-uos-gazebo-worlds
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-gazebo-ros
+Description: Gazebo world and model files for UOS.
